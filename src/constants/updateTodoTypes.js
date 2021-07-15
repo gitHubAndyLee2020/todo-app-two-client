@@ -1,0 +1,3 @@
+export const UPDATETEXT = 'UPDATETEXT'
+export const CHANGETEXT = 'CHANGETEXT'
+export const CLEARTEXT = 'CLEARTEXT'
